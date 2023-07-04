@@ -1,0 +1,9 @@
+.idea/
+.Vscode/
+dbt_env/
+logs/
+resources/
+dbtlearn/dbt_packages/
+dbtlearn/logs/
+dbtlearn/target/
+
